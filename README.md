@@ -1,1 +1,1 @@
-A language translation app using libretanslate.de
+A language translation app using libretranslate.de
